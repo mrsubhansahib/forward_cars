@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header-top-1{
+    height: 45px;
+    padding: 5px 50px ;
+}
+.nav{
+    border: 2px solid black;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    font-size: 12px;
+    padding: 0px  15px;
+}
+.list-item li{
+    display: inline;
+    position: relative;
+    right: 30px;
+    margin: 0px 12px;
+
+}
+.nav1{
+    background-color: black;
+    color: white;
+    padding: 13px;
+
+}
+.form-outline{
+    width: 85%;
+}
+.form-control{
+    border-radius: 0px;
+}
+.search_dropdown{
+
+}
+#cars{
+    height: 38px;
+    margin-left: 26px;
+}
+.nav-lnk{
+    padding: 0px 3px ;
+}
+.nav2{
+    background-color: rgb(247, 219, 168);
+    color: red;
+}
+.nav2 p a{
+    text-decoration: none;
+}
+.master-main{
+    background-color: #f1892b;
+    color: white;
+    /* margin-right: 0px; */
+    margin-left: 0px;
+    font-size:  12px;
+
+
+}.select_span{
+    padding-left: 14px!important;
+}
+.btn-select{
+    border-radius: 0px;
+    width: 130px;
+}
+.left-sidebar-list{
+    background-color: orangered;
+    color: white;
+}
+.car-companies{
+    font-size: 13px;
+}
+.contain{
+    width:88%;
+    margin:auto
+}
+.footer-btn{
+    width: 55%;
+}
+.footer-list-section{
+    color: #f1892b;
+    font-size: 15px;
+}
+.footer-nav-item{
+    font-size: 15px;
+}
+.nav-item li :hover{
+    color: #f1892b;
+}
+.footer-2{
+    background-color: #f1892b;
+    color: white;
+}
+.footer-2-li a{
+    text-decoration: none;
+    color: white;
+}
+.footer-end{
+    font-size: 13px;
+    padding: 16px 0 0px 0px;
+}
